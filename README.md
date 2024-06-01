@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Vaishnavi Shelke</h1>
-<h3 align="left">A passionate Frontend Developer and UI Designer with a goal of becoming a skilled MERN Stack Developer</h3>
+<h1 align="left">About me 🤓</h1>
+<h3 align="left">I'm a Frontend Developer & UI/UX Designer with a passion for creating user-friendly websites that look great on any device. I'm currently expanding my skills by learning the MERN stack to become a full-stack developer. My goal is to combine my design experience with coding expertise to build beautiful and functional websites.</h3>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ5cWg4Y2NqMmJ1d3hhdzJ4ZzZxejNuaWxiZm10NjF6N3VhdnhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" align="start" />
 
 <br/>
@@ -10,7 +10,9 @@
 
 - 📝 I contribute articles on [https://medium.com/@vaishnavi_shelke](https://medium.com/@vaishnavi_shelke)
 
-- 📫 How to reach me **vaishnavishelke7777@gmail.com**
+- ✉️ You can reach me at **vaishnavishelke7777@gmail.com**
+  
+- ⚡ Fun fact **My life is a series of if-else statements.**
 
 <br/>
 
