@@ -5,7 +5,7 @@
 
 </br>
 
-🌱 I’m currently exploring the world of React.js<br><br>👨‍💻 All of my projects are available at https://vaishnavi-shelke.netlify.app/<br><br>📝 I contribute articles on https://medium.com/@vaishnavi_shelke<br><br>✉️ You can reach me at vaishnavishelke7777@gmail.com<br><br>⚡ Fun fact My life is a series of if-else statements.
+🌱 I’m currently exploring the world of React.js<br><br>👨‍💻 All of my projects are available at https://vaishnavi-shelke-portfolio.netlify.app/<br><br>📝 I contribute articles on https://medium.com/@vaishnavi_shelke<br><br>✉️ You can reach me at vaishnavishelke7777@gmail.com<br><br>⚡ Fun fact My life is a series of if-else statements.
 
 </br>
 
